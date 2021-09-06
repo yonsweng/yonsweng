@@ -22,7 +22,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonsweng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - ❤️ I love ...
-  - Problem solving with codes and without codes
   - Coding with people
   - Jeon Yeo-been
 
