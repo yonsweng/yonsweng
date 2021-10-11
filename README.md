@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- 📈 I’m currently learning ...
   - Deep reinforcement learning
   - Deep learning for computer vision
   - Python backend development with Django
@@ -31,6 +31,9 @@
 - 🌷 I'm from [Suncheon](https://www.google.com/search?q=순천), the most beautiful city in the earth.
 
 - 📫 How to reach me: yonsweng@gmail.com
+
+- 🗒 My resume in Korean language  
+  https://programmers.co.kr/pr/yonsweng_3696
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyonsweng%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
