@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 📈 I’m currently learning ...
-  - Deep reinforcement learning
-  - Deep learning for computer vision
   - Python backend development with Django
+  - Deep reinforcement learning
   - Kubernetes
 
 - 🔨 Languages and tools
@@ -15,7 +14,6 @@
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </p>
   
