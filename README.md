@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 📈 I’m currently learning ...
-  - Python backend development with Django
-
 - 🔨 Languages and tools
   <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -22,14 +19,13 @@
   - Jeon Yeo-been
 
 - 🚀 I want to ...
-  - Launch a global service someday
+  - Launch a global service
 
 - 🌷 I'm from [Suncheon](https://www.google.com/search?q=순천), the most beautiful city in the earth.
 
 - 📫 How to reach me: yonsweng@gmail.com
 
-- 🗒 My resume in Korean language  
-  https://programmers.co.kr/pr/yonsweng_3696
+- 🗒 My resume in Korean language: https://programmers.co.kr/pr/yonsweng_3696
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyonsweng%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
