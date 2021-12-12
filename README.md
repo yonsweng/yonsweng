@@ -16,7 +16,7 @@
 
 - ❤️ I love ...
   - Coding with people
-  - Jeon Yeo-been
+  - IU
 
 - 🚀 I want to ...
   - Launch a global service
