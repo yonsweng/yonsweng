@@ -11,8 +11,6 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </p>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonsweng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - ❤️ I love ...
   - Coding with people
@@ -27,7 +25,8 @@
 
 - 🗒 My resume in Korean language: https://programmers.co.kr/pr/yonsweng_3696
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyonsweng%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+  [![Codeforces](https://img.shields.io/badge/dynamic/json?style=flat&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/yonsweng&query=%24.rating&cacheSeconds=86400)](https://www.codeforces.com/profile/yonsweng)
+  [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=yonsweng)](https://solved.ac/yonsweng)
 
 <!--
 **yonsweng/yonsweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
