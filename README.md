@@ -19,11 +19,12 @@
   </p>
 
 - ❤️ I love ...
-  - Coding with people
+  - coding with people
   - IU
 
 - 🚀 I want to ...
-  - Launch a global service
+  - be healthy
+  - develop global services
 
 - 🌷 I'm from [Suncheon](https://www.google.com/search?q=순천), the most beautiful city in the earth.
 
