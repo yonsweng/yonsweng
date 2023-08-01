@@ -18,21 +18,22 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </p>
 
-- ❤️ I love ...
-  - coding with people
-  - IU
+- ❤️ I love to ...
+
+  - code with people
+  - meditate
+  - exercise
 
 - 🚀 I want to ...
-  - be healthy
+
+  - be happy and make others be happy
   - develop global services
 
 - 🌷 I'm from [Suncheon](https://www.google.com/search?q=순천), the most beautiful city in the earth.
 
 - 📫 How to reach me: yonsweng@gmail.com
 
-- 🗒 My resume in Korean language: https://programmers.co.kr/pr/yonsweng_3696
-
-  [![Codeforces](https://img.shields.io/badge/dynamic/json?style=flat&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/yonsweng&query=%24.rating&cacheSeconds=86400)](https://www.codeforces.com/profile/yonsweng)
+  [![Codeforces](https://badges.joonhyung.xyz/codeforces/yonsweng.svg)](https://www.codeforces.com/profile/yonsweng)
   [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=yonsweng)](https://solved.ac/yonsweng)
 
 <!--
